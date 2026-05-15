@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7844",
+  "folder": "Other__mhrv-rs-windows-amd64_20260515161317_3bd34e",
+  "base_name": "Other__mhrv-rs-windows-amd64_20260515161317_3bd34e.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/soniman542/Cloud-Downloads/releases/tag/co-releases-v1-7844",
+  "files": [
+    {
+      "name": "Other__mhrv-rs-windows-amd64_20260515161317_3bd34e.zip",
+      "url": "https://github.com/soniman542/Cloud-Downloads/releases/download/co-releases-v1-7844/Other__mhrv-rs-windows-amd64_20260515161317_3bd34e.zip",
+      "api_url": "https://api.github.com/repos/soniman542/Cloud-Downloads/releases/assets/421132255",
+      "id": 421132255,
+      "size": 7867030,
+      "download_count": 0
+    }
+  ]
+}
